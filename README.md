@@ -1,5 +1,11 @@
+# Hi Fellow Devs :wave:
+<p align="center">
+  <samp>
+  I'm Jayden Nguyen. A passionate Front-end Web Developer from Sai Gon (Vietnam).
+  </samp>
+  <br/>
+  <br/>
+  <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=jayden-n&show_icons=true&theme=tokyonight" alt="jayden"></img></p>
+  <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jayden-n&theme=tokyonight" alt="jayden-n" /></p>
+ 
 
-<div>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jayden-n&show_icons=true&theme=tokyonight&locale=en" alt="jayden-n" /></p>  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jayden-n&theme=tokyonight" alt="jayden-n" /></p>
-</div>
