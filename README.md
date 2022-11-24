@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Jayden Nguyen</h1>
 <h3 align="center">A passionate front-end developer</h3>
 <br>
-<img align="left" alt="coding-gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="coding-gif" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 - 🌱 I’m currently learning **React Native**
