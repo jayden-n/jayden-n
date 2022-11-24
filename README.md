@@ -1,7 +1,7 @@
 # Hi Fellow Devs :wave:
 <p align="center">
   <samp>
-  I'm Jayden Nguyen. A passionate Front-end Web Developer from Sai Gon (Vietnam).
+  I'm Jayden Nguyen. A passionate Front-End Web Developer from Sai Gon (Vietnam).
   </samp>
   <br/>
   <br/>
