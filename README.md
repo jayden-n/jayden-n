@@ -1,4 +1,4 @@
-# Hi Fellow Devs :wave:
+# <p align="center">Hi Fellow Devs :wave:</p>
 <p align="center">
   <samp>
   I'm Jayden Nguyen. A passionate Front-End Web Developer from Sai Gon (Vietnam).
