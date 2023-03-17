@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-    I'm Jayden Nguyen, a passionate Front-End Web Developer from Saigon (Vietnam).
+    I'm Jayden Nguyen, a passionate Front-End Web Developer based in Toronto, Canada.
   </samp>
   <br/>
   <br/>
