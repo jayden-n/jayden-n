@@ -5,9 +5,10 @@
   <samp>
     I'm Jayden Nguyen, an enthusiastic Software Developer based in Toronto, Canada. 📍
   </samp>
-  <br/>
-  <br/>
-  <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayden-n&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats" alt="jayden-n"></img> <br>
+<!--   <br/>
+  <br/> -->
+<!--   <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayden-n&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats" alt="jayden-n"></img>
+ <br> -->
  <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jayden-n&theme=tokyonight" alt="jayden-n" />
 </p>
 
