@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-    I'm Jayden Nguyen, an enthusiastic Software Developer based in Toronto, Canada. 📍
+    I'm Jayden Nguyen, a passionate Front-end Web Developer based in Toronto, Canada. 📍
   </samp>
 <!--   <br/>
   <br/> -->
