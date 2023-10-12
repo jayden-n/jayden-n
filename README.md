@@ -3,7 +3,7 @@
 
 <p align="center">
   <samp>
-    I'm Jayden Nguyen, a product-minded Front-end Engineer based in Toronto, Canada. 📍
+    I'm Jayden Nguyen, a product-minded Front-end Engineer based in Canada, Earth. 📍
   </samp>
 <!--   <br/>
   <br/> -->
