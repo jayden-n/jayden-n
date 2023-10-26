@@ -1,16 +1,9 @@
-# <samp> <p align="center">Hi Fellow Devs :wave:</p> </samp>
+<a href="https://discord.com/users/908753224817852436" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/908753224817852436?bg=1f1f1f&borderRadius=5px&idleMessage=coding...&showDisplayName=true&hideTimestamp=true&hideProfile=false">
+</a>
 
+<a href="https://wakatime.com/@jayden309" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jayden309&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2">
+</a>
 
-<p align="center">
-  <samp>
-    I'm Jayden Nguyen, a product-minded Front-end Engineer based in Canada, Earth. 📍
-  </samp>
-<!--   <br/>
-  <br/> -->
-<!--   <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayden-n&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars&custom_title=My%20GitHub%20Stats" alt="jayden-n"></img>
- <br> -->
- <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jayden-n&theme=tokyonight" alt="jayden-n" />
-</p>
-
-
-
+I write code.
