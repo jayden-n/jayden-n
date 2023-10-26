@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/908753224817852436" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/908753224817852436?bg=1f1f1f&borderRadius=5px&idleMessage=away%20from%20screen...&showDisplayName=true&hideTimestamp=true&hideProfile=false">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/908753224817852436?bg=1f1f1f&borderRadius=5px&idleMessage=away%20from%20screen...&showDisplayName=true&hideTimestamp=false&hideProfile=false">
 </a>
 
 <a href="https://wakatime.com/@jayden309" target="_blank">
