@@ -7,5 +7,5 @@
 </a>
 
 <samp> 
-I write code.
+Have fun, be yourself, make mistakes.
 </samp>
