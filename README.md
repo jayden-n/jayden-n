@@ -7,5 +7,5 @@
 </a>
 
 <samp> 
-I write code.
+I enjoy coding.
 </samp>
