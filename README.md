@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/908753224817852436" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/908753224817852436?bg=1f1f1f&borderRadius=2px&idleMessage=away%20from%20screen...&showDisplayName=true&hideTimestamp=false&hideProfile=false">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/908753224817852436?bg=1f1f1f&borderRadius=2px&idleMessage=probably%20debugging...&showDisplayName=true&hideTimestamp=false&hideProfile=false">
 </a>
 
 <a href="https://wakatime.com/@jayden309" target="_blank">
@@ -7,5 +7,7 @@
 </a>
 
 <samp> 
-I enjoy coding.
+I have a passion for solving problems.
+</br>
+Thanks for reading.
 </samp>
