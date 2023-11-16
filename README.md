@@ -7,7 +7,7 @@
 </a>
 
 <samp> 
-I have a passion for solving problems.
+I just have a passion for solving problems.
 </br>
 Thanks for reading.
 </samp>
