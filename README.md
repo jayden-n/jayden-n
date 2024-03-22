@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://wakatime.com/@jayden309" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jayden309&border_radius=2px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=jayden309&border_radius=2px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Daily%20Stats&v=2">
 </a>
 
 <samp> 
