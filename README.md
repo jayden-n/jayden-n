@@ -8,6 +8,5 @@
 
 <samp> 
 I just have a passion for solving problems.
-</br>
 Thanks for reading!
 </samp>
